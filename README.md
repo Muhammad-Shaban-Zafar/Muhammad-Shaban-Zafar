@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Muhammad Shaban Zafar</h1>
 
-- 🔭 I’m currently working on PYTHON programming
+- 🔭 I’m currently working on PYTHON & SQL
 - 🌱 I’m currently learning Backend Developement
 - 💬 Ask me anything about Java Script 
 - 📫 How to reach me: shabansandhu354@gmail.com
