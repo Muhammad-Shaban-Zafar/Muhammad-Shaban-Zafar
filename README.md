@@ -29,7 +29,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,react,c#,mysql,git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,react,C#,mysql,git,github,vscode,postman)](https://skillicons.dev)
 
 ![Muhammad-Shaban-Zafar GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Shaban-Zafar&show_icons=true&theme=dark)
 
