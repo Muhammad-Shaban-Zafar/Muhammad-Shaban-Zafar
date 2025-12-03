@@ -1,9 +1,9 @@
  <h1 align="center">Hi 👋, I'm Muhammad Shaban Zafar</h1>
 
-- 🔭 I’m currently working on C#, .Net & SQL Server
-- 🌱 I’m currently learning Backend Developement
-- 💬 Ask me anything about Java Script 
-- 📫 How to reach me: shabansandhu354@gmail.com
+- 🔭 I’m Entry level Software Engineer
+- 🌱 I’m currently Working on .NET + SQL Server as Backend Developer 
+- 💬 Ask me anything about C# (OOP), .NET, ASP.NET Core Web Api, RstFul APIs, SQL Server & Java Script 
+- 📫 How to reach me: shabanzafar.dev@gmail.com
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
