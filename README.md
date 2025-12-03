@@ -16,6 +16,9 @@
  <a href="https://www.linkedin.com/in/muhammad-shaban-zafar-8588a82a5/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Github Badge"/>
   </a>
+ <a href="mailto:shabanzafar.dev@gmail.com">
+    <img src="img.shields.io" alt="Email Badge"/>
+  </a>
   <a href="https://www.youtube.com/@ShabanSandhu-z2h">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
