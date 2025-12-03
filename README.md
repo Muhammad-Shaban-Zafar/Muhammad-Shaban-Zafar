@@ -1,10 +1,11 @@
  <h1 align="center">Hi 👋, I'm Muhammad Shaban Zafar</h1>
 
-- 🔭 I’m Entry level Software Engineer
-- 🌱 I’m currently Working on .NET + SQL Server as Backend Developer 
-- 💬 Ask me anything about C# (OOP), .NET, ASP.NET Core Web Api, RstFul APIs, SQL Server & Java Script 
-- 📫 How to reach me: shabanzafar.dev@gmail.com
-- ⚡ Fun fact: I'm comming to teen
+🔭 I’m a **Fresh Graduate in Computer Science** from GCUF.
+👨‍💻 I'm an **Entry-Level Software Engineer**.
+🌱 I’m currently working on **.NET + SQL Server** as a **Backend Developer**. 
+💬 Ask me anything about **C# (OOP), .NET, ASP.NET Core Web API, RESTful APIs, SQL Server, & JavaScript**. 
+📫 How to reach me: **shabanzafar.dev@gmail.com**
+⚡ Fun fact: I believe "Ctrl + C" and "Ctrl + V" are the unsung heroes of coding.
   
 ### Connect with me:
 <div id="badges">
