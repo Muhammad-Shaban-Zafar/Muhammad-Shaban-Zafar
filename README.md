@@ -3,7 +3,7 @@
 - 🔭 I’m a **Fresh Graduate in Computer Science** from GCUF.
 - 👨‍💻 I'm an **Entry-Level Software Engineer**.
 - 🌱 I’m currently working on **.NET + SQL Server** as a **Backend Developer**.
-- Experienced with **ASP.NET Core Web API**, **RESTful APIs**, **Clean Architecture**, **MediatR**, **CQRS Pattern**, **Repository Pattern**, **Identity Framework**, **JWT Authentication**, **SQL Server**,
+- Experienced with **C# (OOP)**, **ASP.NET Core Web API**, **RESTful APIs**, **Clean Architecture**, **MediatR**, **CQRS Pattern**, **Repository Pattern**, **Identity Framework**, **JWT Authentication**, **SQL Server**, **JavaScript**, **JQuery**, **Tailwind**
 **Entity Framework**, **JavaScript**, **jQuery**, **Tailwind CSS** 
 - 💬 Ask me anything about **C# (OOP), .NET, ASP.NET Core Web API, RESTful APIs, SQL Server, & JavaScript**. 
 - 📫 How to reach me: **shabanzafar.dev@gmail.com**
