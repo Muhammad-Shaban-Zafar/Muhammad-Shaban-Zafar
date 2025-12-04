@@ -3,7 +3,8 @@
 - 🔭 I’m a **Fresh Graduate in Computer Science** from GCUF.
 - 👨‍💻 I'm an **Entry-Level Software Engineer**.
 - 🌱 I’m currently working on **.NET + SQL Server** as a **Backend Developer**.
-- Experienced with **C# (OOP)**, **ASP.NET Core Web API**, **RESTful APIs**, **Clean Architecture**, **MediatR**, **CQRS Pattern**, **Repository Pattern**, **Identity Framework**, **JWT Authentication**, **SQL Server**, **Entity Framework**, **JavaScript**, **jQuery**, **Tailwind CSS** 
+- Experienced with **C# (OOP)**, **ASP.NET Core Web API**, **RESTful APIs**, **Clean Architecture**, **MediatR**, **CQRS Pattern**, **Repository Pattern**, **Identity Framework**, **JWT Authentication**, **SQL Server**, **Entity Framework**, **JavaScript**, **jQuery**, **Tailwind CSS**
+- 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Shaban-Zafar?tab=repositories](https://github.com/Muhammad-Shaban-Zafar?tab=repositories)
 - 💬 Ask me anything about **C# (OOP), .NET, ASP.NET Core Web API, RESTful APIs, SQL Server, & JavaScript**. 
 - 📫 How to reach me: **shabanzafar.dev@gmail.com**
 - ⚡ Fun fact: I believe "Ctrl + C" and "Ctrl + V" are the unsung heroes of coding.
