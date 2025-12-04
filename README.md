@@ -36,7 +36,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-shaban-zafar&show_icons=true&locale=en&layout=compact" alt="muhammad-shaban-zafar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-shaban-zafar&show_icons=true&locale=en" alt="muhammad-shaban-zafar" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats-ochre-phi.vercel.app/api?username=Muhammad-Shaban-Zafar&show_icons=true&theme=dark" />
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-shaban-zafar&" alt="muhammad-shaban-zafar" /></p>
 
 ![Muhammad-Shaban-Zafar GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Shaban-Zafar&show_icons=true&theme=dark)
