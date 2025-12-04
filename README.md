@@ -34,14 +34,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,tailwindcss,react,cs,dotnet,mysql,git,github,visualstudio,vscode,postman,swagger)](https://skillicons.dev)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/Muhammad-Shaban-Zafar&show_icons=true&locale=en&layout=compact" alt="Muhammad-Shaban-Zafar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shaban-Zafar&show_icons=true&locale=en" alt="Muhammad-Shaban-Zafar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Shaban-Zafar&" alt="Muhammad-Shaban-Zafar" /></p>
-
-
-
 ![Muhammad-Shaban-Zafar GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Shaban-Zafar&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Shaban-Zafar&theme=dark)
