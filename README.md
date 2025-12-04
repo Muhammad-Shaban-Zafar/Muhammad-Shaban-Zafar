@@ -35,8 +35,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,tailwindcss,react,cs,dotnet,mysql,git,github,visualstudio,vscode,postman,swagger)](https://skillicons.dev)
 
 
-![Muhammad-Shaban-Zafar GitHub stats](https://github-readme-stats-git-master-rstaa-rick.vercel.app/api?username=Muhammad-Shaban-Zafar&show_icons=true&theme=dark)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-shaban-zafar&show_icons=true&locale=en&layout=compact" alt="muhammad-shaban-zafar" /></p>
 
 
 
