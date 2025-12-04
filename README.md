@@ -35,11 +35,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,tailwindcss,react,cs,dotnet,mysql,git,github,visualstudio,vscode,postman,swagger)](https://skillicons.dev)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-shaban-zafar&show_icons=true&locale=en&layout=compact" alt="muhammad-shaban-zafar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Shaban-Zafar&show_icons=true&locale=en&layout=compact" alt="muhammad-shaban-zafar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-shaban-zafar&show_icons=true&locale=en" alt="muhammad-shaban-zafar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shaban-Zafar&show_icons=true&locale=en" alt="muhammad-shaban-zafar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-shaban-zafar&" alt="muhammad-shaban-zafar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Shaban-Zafar&show_icons=true&locale=en" alt="muhammad-shaban-zafar" /></p>
 
 
 
