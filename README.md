@@ -14,19 +14,19 @@
   <a href="https://github.com/Muhammad-Shaban-Zafar">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
- <a href="https://www.linkedin.com/in/muhammad-shaban-zafar-8588a82a5/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Github Badge"/>
+ <a href="https://www.linkedin.com/in/muhammadshabanzafar/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
-  <a href="https://www.youtube.com/@ShabanSandhu-z2h">
+  <a href="https://www.youtube.com/@Codeify-354">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
- <a href="https://www.facebook.com/profile.php?id=100072568414298">
+ <a href="https://www.facebook.com/itxshabansandhu">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="https://www.instagram.com/shaban_sandhu354/">
+   <a href="https://www.instagram.com/itxshabansandhu/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="">
+   <a href="https://x.com/itxshabansandhu">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
