@@ -34,6 +34,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,tailwindcss,cs,dotnet,aspnetcore,sqlserver,mysql,git,github,visualstudio,vscode,postman,swagger)](https://skillicons.dev)
 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-shaban-zafar&" alt="muhammad-shaban-zafar" /></p>
 
 <p>
