@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Muhammad Shaban Zafar</h1>
 
-- 🔭 I’m a **Fresh Graduate in Computer Science** from GCUF.
+- 🔭 I’m a **Fresh Graduate in Computer Science** from **GCUF**.
 - 👨‍💻 I'm an **Entry-Level Software Engineer**.
 - 🌱 I’m currently working on **.NET + SQL Server** as a **Backend Developer**.
 - 🧠 Experienced with **C# (OOP)**, **ASP.NET Core Web API**, **RESTful APIs**, **Clean Architecture**, **MediatR**, **CQRS Pattern**, **Repository Pattern**, **Identity Framework**, **JWT Authentication**, **SQL Server**, **Entity Framework**, **JavaScript**, **jQuery**, **Tailwind CSS**
