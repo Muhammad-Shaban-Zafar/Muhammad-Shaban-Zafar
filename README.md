@@ -9,27 +9,6 @@
 - 📫 How to reach me: **shabanzafar.dev@gmail.com**
 - ⚡ Fun fact: I believe "**Ctrl + C**" and "**Ctrl + V**" are the unsung heroes of coding.
   
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/Muhammad-Shaban-Zafar">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
- <a href="https://www.linkedin.com/in/muhammadshabanzafar/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a> 
-  <a href="https://www.youtube.com/@Codeify-354">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
- <a href="https://www.facebook.com/itxshabansandhu">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://www.instagram.com/itxshabansandhu/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://x.com/itxshabansandhu">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,tailwindcss,cs,dotnet,mysql,git,github,visualstudio,vscode,postman,swagger)](https://skillicons.dev)
@@ -53,6 +32,28 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/Muhammad-Shaban-Zafar">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+ <a href="https://www.linkedin.com/in/muhammadshabanzafar/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a> 
+  <a href="https://www.youtube.com/@Codeify-354">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+ <a href="https://www.facebook.com/itxshabansandhu">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://www.instagram.com/itxshabansandhu/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://x.com/itxshabansandhu">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 
