@@ -16,7 +16,7 @@
   </a>
  <a href="https://www.linkedin.com/in/muhammadshabanzafar/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
+  </a> 
   <a href="https://www.youtube.com/@Codeify-354">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -33,6 +33,7 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,tailwindcss,cs,dotnet,mysql,git,github,visualstudio,vscode,postman,swagger)](https://skillicons.dev)
+
 
 ## 🚀 Backend Development Stack
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
