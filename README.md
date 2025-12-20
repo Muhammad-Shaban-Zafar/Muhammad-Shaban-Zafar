@@ -34,6 +34,19 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,tailwindcss,cs,dotnet,mysql,git,github,visualstudio,vscode,postman,swagger)](https://skillicons.dev)
 
+## 🚀 Backend Development Stack
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![RDBMS](https://img.shields.io/badge/RDBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ERD](https://img.shields.io/badge/ERD_Design-0A66C2?style=for-the-badge&logo=diagrams.net&logoColor=white)
+
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-shaban-zafar&" alt="muhammad-shaban-zafar" /></p>
 
 <p>
