@@ -11,7 +11,7 @@
   
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,tailwindcss,cs,dotnet,mysql,git,github,visualstudio,vscode,postman,swagger)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,anguler,ts,javascript,jquery,tailwindcss,html,css,bootstrap,git,github,visualstudio,vscode,postman,swagger)](https://skillicons.dev)
 
 
 ## 🚀 Backend Development Stack
